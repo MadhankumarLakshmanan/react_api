@@ -1,0 +1,39 @@
+.tb{
+    align-items: center;
+    width: 100%;
+    border: 1px solid red;
+    border-collapse: collapse;
+    margin: 0px auto;
+}
+ 
+.csv{
+    position:relative; 
+    left:600px; 
+   bottom:25px;  
+}
+
+.sort{
+    position: relative;
+    left: 600px;
+    bottom: 40px;
+    background-color: aliceblue;
+    border-color: currentColor; 
+}
+.th,.td{
+    border: 1px solid black;
+} 
+.click{
+    position: relative;
+    left: 600px;
+    bottom: -15px;
+    background-color: limegreen;
+    border-color: white;
+}
+
+
+.form{
+    background-color: lightblue;
+    width: 40%;
+    margin: auto;
+    border: solid;
+}
